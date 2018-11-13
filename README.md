@@ -1,8 +1,14 @@
-# defcamp
-Dan's def.camp presentation.
+# defcamp 2018
+Dan's def.camp presentation "The Hitchhiker's Guide to Disinformation, Public Opinion Swinging and False Flags"
+
+Slides: https://xdanx.github.io/defcamp
+
 
 ## Useful links
 
+https://www.youtube.com/watch?v=yTla4rCblzQ
+
+https://www.youtube.com/watch?v=fdIT1LQxZno
 
 https://www.kyivpost.com/technology/lithuanian-creates-artificial-intelligence-with-ability-to-identify-fake-news-within-2-minutes.html?cn-reloaded=1
 
