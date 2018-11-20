@@ -1,6 +1,8 @@
 # defcamp 2018
 Dan's def.camp presentation "The Hitchhiker's Guide to Disinformation, Public Opinion Swinging and False Flags"
 
+Presentation: https://www.youtube.com/watch?v=-lXhu8SbubE
+
 Slides: https://xdanx.github.io/defcamp
 
 
